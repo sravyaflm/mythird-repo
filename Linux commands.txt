@@ -1,0 +1,13 @@
+Linux commands
+sudo -i - to get root user or alter command sudo su - 
+System commands 
+to know os name 
+uname
+to know version 
+uname -r
+to know hostname type - (IP address/version/created time)
+uname -a 
+In real-time environment 
+hostname - to get os name 
+to change hostname 
+hostnamectl set-hostname "swiggy-server" to applicable exit and return to root user 
